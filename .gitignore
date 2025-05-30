@@ -1,0 +1,20 @@
+#LaTeX immidiate files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Backup and temp files
+*~
+*.bak
+*.tmp
+
+# Compiled PDFs
+*.pdf
